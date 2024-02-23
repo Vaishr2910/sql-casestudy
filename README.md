@@ -42,6 +42,23 @@ The dataset comprises eight CSV files, including information on customers, selle
 - Target promotions towards regions with growing e-commerce trends.
 - Implement strategies to improve delivery accuracy and speed.
 
+##  Recommendations
+- From the insights above we can say that there is an upward trend in
+E-Commerce in Brazil. And we can increase our e-commerce business in the
+Brazil region.
+- People from Brazil mostly purchase during Afternoon period. So we can show our
+best selling items, or we can show offers to users during the afternoon time
+period.
+- The number of orders placed in Autumn Season are more as compared to any
+other Season in Brazil so we can increase our offers, staff, reduce the time to
+delivery during this period of time.
+- Most of our customers use Credit Cards as their payment type, so we can tie up
+with any banks which will give users some offers and can also issue credit cards
+to eligible users.
+- Around 63% of orders have EMIs 3 Months and below. So we can give no cost
+EMI options to the users in Brazil as most people prefer Maximum of 3 Months
+of EMI plans. Which can also help increase sales
+
 ## Conclusion
 The analysis provides valuable insights into e-commerce operations at Target in Brazil, offering actionable recommendations to enhance customer satisfaction, optimize logistics, and drive business growth in the competitive e-commerce landscape.
 
